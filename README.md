@@ -127,9 +127,9 @@
 
 AI Powered Website Analysis & Scraping Tool
 
-## 🎮 GamYar
+## 💫 GamYar
 
-Modern Gaming Platform
+AI Counseling Platform❄️
 
 ## 🚀 More Projects
 
